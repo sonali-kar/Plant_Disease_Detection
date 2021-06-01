@@ -1,1 +1,1 @@
-# Plant_Disease_Detection
+ Corn Plant Disease Detection
